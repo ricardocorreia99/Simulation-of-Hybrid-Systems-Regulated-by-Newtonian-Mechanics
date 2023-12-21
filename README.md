@@ -1,0 +1,1 @@
+# Simulation-of-Hybrid-Systems-Regulated-by-Newtonian-Mechanics
