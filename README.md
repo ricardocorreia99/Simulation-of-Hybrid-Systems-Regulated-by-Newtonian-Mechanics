@@ -1,4 +1,4 @@
-# Simulation-of-Hybrid-Systems-Regulated-by-Newtonian-Mechanics
+# Simulation of Hybrid Systems Regulated by Newtonian Mechanics
 
 The evolution of software products that interact with the physical world has led to a greater need to simulate
 their behavior in order to verify their effectiveness and safety in different scenarios. This dissertation project
